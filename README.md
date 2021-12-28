@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliciaengl
-- 👀 I’m interested in ... Climate, Environment and Atmospheric Science
-- 🌱 I’m currently learning ... R and Python
+- 👀 I’m interested in Climate & Environment Sciences, Atmospheric Dynamics and so on!
+- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
